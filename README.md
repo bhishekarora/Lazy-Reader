@@ -2,6 +2,8 @@
 
 This project allows you to scroll a webpage up and down by detecting the vertical movement of your index finger using your webcam. It utilizes MediaPipe for hand tracking and pyautogui for simulating scroll events.
 
+#![Picture](https://github.com/bhishekarora/Lazy-Reader/blob/main/1.png.jpg) { height =200px width=250px}
+
 ## Requirements
 
 - Python 3.x
